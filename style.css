@@ -1,0 +1,90 @@
+input{
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+p{
+
+  display: inline;
+  
+}
+article{
+  width: 70%;
+  text-align: center;
+}
+p, p >input{
+  display: inline;
+  margin: 15px;
+  
+}
+.sa{
+  border: 1px solid rgb(221, 205, 205);
+  margin: 0px;
+  width: 40%;
+  display: inline-block;
+  padding-bottom: 62px;
+  padding-top: 1px;
+ background-color:white;
+ 
+
+
+}
+.de{
+  border: 0px solid white;
+  margin: 0px;
+  width: 40%;
+  display: inline-block;
+  padding-top: 205px;
+  padding-bottom: 50px;
+  background-color: purple;
+  
+  
+}
+.span{
+  padding: 1x;
+  display: inline-block;
+  width: 50px;
+  border: 1px solid black;
+ 
+
+}
+button{
+  border-radius: 20px 20px 20px 20px;
+  width: 109px;
+  height: 45px;
+  background-color: purple;
+  border: 1px solid white;
+  
+}
+input[type=submit] {
+  background-color: #53af57;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+ }
+ input[type=submit]{
+  background-color: purple;
+  color: white;
+  border: 1px solid ;
+ }
+ input[type=email], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #cccc;
+  box-sizing: border-box;
+ }
+ i{
+  display: inline;
+  font-size: 40px;
+ }
+h1{
+  color: white;
+}
+h5{
+  color: white;
+}
